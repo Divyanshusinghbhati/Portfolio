@@ -1,0 +1,186 @@
+Create a modern, dark-themed portfolio website for Divyanshu Singh Bhati, a tech-driven BCA graduate and IT professional specializing in software engineering, IT operations, and technical coordination. The website should highlight his technical background, work experience, skills, and career focus in the IT field. Include a professional profile picture prominently in the hero section to establish a strong personal brand.
+
+1. Website Structure
+
+Design a modern portfolio website with the following sections:
+
+Home (Hero Section)
+
+About
+
+Education
+
+Experience
+
+Skills
+
+Projects
+
+Certifications
+
+Contact
+
+2. Section Details
+Home (Hero Section)
+
+Display profile picture with a modern layout.
+
+Name: Divyanshu Singh Bhati
+
+Title: IT Professional / Operation Executive / Tech-driven BCA Graduate.
+
+Short headline derived from bio:
+
+“Tech-driven BCA graduate with experience in software engineering, IT management, and operational coordination, focused on delivering reliable technical solutions.”
+
+Include call-to-action buttons:
+
+View Projects
+
+Contact Me
+
+LinkedIn Profile
+
+About Section
+
+Include a concise professional summary:
+
+Background in software engineering, IT support, and operational coordination.
+
+Experience with Flutter, Firebase, system maintenance, troubleshooting, documentation, and workflow management.
+
+Career objective: securing an IT-focused role combining technical skills with operational efficiency.
+
+Education Section
+
+Present education in a timeline or card format:
+
+BCA — Poornima University (2022–2025), GPA 7.82
+
+12th — K.V No.1, Bikaner (2020–2021), GPA 7.96
+
+Experience Section
+
+Display work experience in chronological timeline format:
+
+Operation Executive — Elbow Grease Business Solutions Pvt. Ltd (Oct 2025 – Present)
+
+IT Manager — Smart Circle Group (Jun 2025 – Sep 2025)
+
+Software Engineer Intern — Ethereal Softech Pvt. Ltd (May 2024 – Jul 2024)
+
+Highlight responsibilities like:
+
+IT support and technical troubleshooting
+
+Mobile app development
+
+Workflow coordination
+
+Vendor handling
+
+Operational process management
+
+Skills Section
+
+Use modern tech-style cards or icons to present:
+
+Marketing
+
+Project Management
+
+Budget Planning
+
+Communication
+
+Problem-solving
+
+Network Administration
+
+Flutter Development
+
+Firebase
+
+IT Support
+
+System Maintenance
+
+Troubleshooting
+
+Projects Section
+
+Highlight notable project:
+
+Royal Baisa App
+
+Women’s Rajputi dress mobile application.
+
+Brief description emphasizing app development, design, and technical involvement.
+
+Include project visuals/mockups if available.
+
+Certifications Section
+
+List certificates in grid format:
+
+Public Speaking (NPTEL)
+
+Flutter and Firebase Development (Udemy)
+
+Prompt Engineering Course (DeepLearning AI)
+
+Innovation in Artificial Intelligence
+
+PepsiCo Sales Certificate
+
+Contact Section
+
+Display:
+
+Phone: +91 6378502420
+
+Email: mrdivyanshu31@gmail.com
+
+Location: Jaipur, Rajasthan
+
+LinkedIn: https://www.linkedin.com/in/divyanshu-singh-bhati-389012362
+
+Include modern contact form and social icons.
+
+3. Design & Style Guidelines
+
+Theme: Dark modern tech style.
+
+Use dark background (deep charcoal/black tones).
+
+Neon or accent colors like electric blue, purple, or cyan for highlights.
+
+Clean typography (modern sans-serif fonts).
+
+Smooth animations (fade-in, hover effects).
+
+Glassmorphism or subtle gradients allowed.
+
+Minimalist layout with strong visual hierarchy.
+
+Responsive design optimized for desktop and mobile.
+
+4. UX & Additional Features
+
+Sticky navigation bar.
+
+Smooth scrolling transitions.
+
+Interactive timeline for experience.
+
+Animated skill icons or progress indicators.
+
+Modern button styles with hover glow effects.
+
+SEO-friendly structure.
+
+Fast-loading and lightweight.
+
+5. Overall Goal
+
+Create a professional, visually appealing modern portfolio website that positions Divyanshu Singh Bhati as a technically capable IT professional with operational experience and mobile app development exposure. The design should reflect innovation, professionalism, and a strong tech-focused identity.
